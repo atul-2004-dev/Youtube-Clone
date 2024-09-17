@@ -2,6 +2,10 @@
 
 This project is a simple clone of the YouTube interface, created using only HTML and CSS. It mimics the basic layout and design of the popular video streaming platform.
 
+## Live Demo
+
+Check out the live demo of the project: [Live Demo](https://your-live-demo-link-here.com)
+
 ## Features
 
 - **Responsive Design**: The layout adjusts to different screen sizes.
@@ -13,6 +17,10 @@ This project is a simple clone of the YouTube interface, created using only HTML
 
 - **HTML5**
 - **CSS3**
+
+## Screenshot
+
+![YouTube Clone Screenshot](https://github.com/user-attachments/assets/cef59e2b-a049-4365-b6f4-d7555a7929ec)
 
 ## How to Run
 
